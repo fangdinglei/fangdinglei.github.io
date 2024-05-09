@@ -1,1 +1,114 @@
-{"importBase":"import","nativeBase":"native","name":"main","deps":[],"uuids":["04588545a","064f8a760","06ef6fc7d","0752aefa1","0f3a2ebf0","20g1ukYUVPvKWKBRznAKo+","a0KXa2LCtCaZJbvUG4Jg2J","20g1ukYUVPvKWKBRznAKo+@6c48a","20g1ukYUVPvKWKBRznAKo+@f9941","30b0VLMyJGAb26JJ07fUjU","30b0VLMyJGAb26JJ07fUjU@6c48a","30b0VLMyJGAb26JJ07fUjU@f9941","54TknWPwVPqJqeCR+Y/Czo","54TknWPwVPqJqeCR+Y/Czo@6c48a","54TknWPwVPqJqeCR+Y/Czo@f9941","58Ha47XHlIRb0RTcmDy1yA","6aEAu6QYdFGZWQPUFJz1GU","6aEAu6QYdFGZWQPUFJz1GU@6c48a","6aEAu6QYdFGZWQPUFJz1GU@f9941","6bk6qbg/VMJK+zk2duJiFH","78tA4dyY5HLr7le5DGnjv6","95EkngnxZFbYuFpsqVTaFr","95EkngnxZFbYuFpsqVTaFr@6c48a","95EkngnxZFbYuFpsqVTaFr@f9941","96VFyG8t5JmouzYgG4DNfr","afxHkx8GZGsJC+n+YfITQo","ceBrAAxlVBVozfHs3ML2vq","afxHkx8GZGsJC+n+YfITQo@6c48a","afxHkx8GZGsJC+n+YfITQo@f9941","b7MFJ8MjNBwqr3fNq1j5dJ","b7MFJ8MjNBwqr3fNq1j5dJ@6c48a","b7MFJ8MjNBwqr3fNq1j5dJ@f9941","baIUdvKGZPgZxNbjWTFuRI","belmZKY9RN3LD/xwftEsu2","d0OatmPzhE85hRFpr7tLfa","fdjsU2o1RKF5x0TziDw3jI","ffuIqPr2JI9I8dPLYGRDpD","ffuIqPr2JI9I8dPLYGRDpD@6c48a","ffuIqPr2JI9I8dPLYGRDpD@f9941"],"paths":{"6":["db:/assets/scene/main",0],"26":["db:/assets/scene/level_select",0],"32":["db:/internal/physics/default-physics-material",2],"35":["db:/internal/default_renderpipeline/builtin-forward",1]},"scenes":{"db://assets/scene/level_select.scene":26,"db://assets/scene/main.scene":6},"packs":{"04588545a":[8,14,19,23,24,6,28,31,34,38],"064f8a760":[33,26],"06ef6fc7d":[18,20],"0752aefa1":[17,10,13,7,22,27,30,37],"0f3a2ebf0":[11,15]},"versions":{"import":[],"native":[]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.SceneAsset","cc.RenderPipeline","cc.PhysicsMaterial"]}
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "04588545a",
+        "064f8a760",
+        "06ef6fc7d",
+        "0752aefa1",
+        "0f3a2ebf0",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "306f454b-3322-4601-bdba-249d3b7d48d4",
+        "306f454b-3322-4601-bdba-249d3b7d48d4@6c48a",
+        "306f454b-3322-4601-bdba-249d3b7d48d4@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "581dae3b-5c79-4845-bd11-4dc983cb5c80",
+        "6a100bba-4187-4519-9590-3d4149cf5194",
+        "6a100bba-4187-4519-9590-3d4149cf5194@6c48a",
+        "6a100bba-4187-4519-9590-3d4149cf5194@f9941",
+        "6b93aa9b-83f5-4c24-afb3-93676e262147",
+        "78b40e1d-c98e-472e-bee5-7b90c69e3bfa",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "96545c86-f2de-499a-8bb3-6201b80cd7eb",
+        "a02976b6-2c2b-4269-925b-bd41b8260d89",
+        "afc47931-f066-46b0-90be-9fe61f213428",
+        "afc47931-f066-46b0-90be-9fe61f213428@6c48a",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "be96664a-63d4-4ddc-b0ff-c707ed12cbb6",
+        "ce06b000-c655-4156-8cdf-1ecdcc2f6bea",
+        "d039ab66-3f38-44f3-9851-169afbb4b7da",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941"
+    ],
+    "paths": {
+        "ce06b000-c655-4156-8cdf-1ecdcc2f6bea": [
+            "db:/assets/scene/level_select",
+            "cc.SceneAsset"
+        ],
+        "a02976b6-2c2b-4269-925b-bd41b8260d89": [
+            "db:/assets/scene/main",
+            "cc.SceneAsset"
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline"
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial"
+        ]
+    },
+    "scenes": {
+        "db://assets/scene/level_select.scene": "ce06b000-c655-4156-8cdf-1ecdcc2f6bea",
+        "db://assets/scene/main.scene": "a02976b6-2c2b-4269-925b-bd41b8260d89"
+    },
+    "packs": {
+        "0752aefa1": [
+            "6a100bba-4187-4519-9590-3d4149cf5194@6c48a",
+            "306f454b-3322-4601-bdba-249d3b7d48d4@6c48a",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+            "afc47931-f066-46b0-90be-9fe61f213428@6c48a",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a"
+        ],
+        "0f3a2ebf0": [
+            "306f454b-3322-4601-bdba-249d3b7d48d4@f9941",
+            "581dae3b-5c79-4845-bd11-4dc983cb5c80"
+        ],
+        "06ef6fc7d": [
+            "6a100bba-4187-4519-9590-3d4149cf5194@f9941",
+            "78b40e1d-c98e-472e-bee5-7b90c69e3bfa"
+        ],
+        "04588545a": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+            "6b93aa9b-83f5-4c24-afb3-93676e262147",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+            "96545c86-f2de-499a-8bb3-6201b80cd7eb",
+            "a02976b6-2c2b-4269-925b-bd41b8260d89",
+            "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+            "d039ab66-3f38-44f3-9851-169afbb4b7da",
+            "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941"
+        ],
+        "064f8a760": [
+            "be96664a-63d4-4ddc-b0ff-c707ed12cbb6",
+            "ce06b000-c655-4156-8cdf-1ecdcc2f6bea"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
